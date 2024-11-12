@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "Gnana Chaithanya Gali",
+    "title": "Data analyst",
+    "summary": "Passionate software engineer with 2 years of IT experience in Life sciences projects and worked in Node.js, Express js (middleware), Python, SQL, Aws cloud services as a Backend developer and Data engineer",
+    "location": "Bangalore, KA (Open to Remote)",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&h=200&q=80",
+    "social": {
+      "github": "https://github.com/chaithanyagali",
+      "linkedin": "https://www.linkedin.com/in/gnana-chaithanya-gali-9ab529173",
+      "email": "chaithanyagali2001@gmail.com"
+    }
+  },
+  "experience": [
+    {
+      "title": "Data Analyst",
+      "company": "Cognizant Technology Solutions",
+      "period": "Nov 2022 - present",
+      "achievements": [
+        "worked as a developer in life science AWS data migration for EUMDR",
+        "worked on a POC for a project as a single developer",
+        "Built a frame work in nodejs for a seamless backend api"
+      ]
+    },
+    {
+      "title": "Intern",
+      "company": "Cognizant Technology Solutions",
+      "period": "Mar 2022 - Nov 2022",
+      "achievements": [
+        "worked on bigdata etl(airflow , pyspark , Hadoop, HDFS and Hive)"
+      ]
+    }
+  ],
+  "skills": {
+    "technical": [
+      "SQL",
+      "PostgreSQL",
+      "Python",
+      "Pyspark",
+      "Node.js",
+      "AWS",
+      "Machine learning",
+      "Step Function", 
+      "Airflow",
+      "redshift"
+    ],
+    "soft": [
+      "Team Leadership",
+      "Problem Solving",
+      "Communication",
+      "Agile",
+      "Mentoring"
+    ]
+  },
+  "projects": [
+    {
+      "title": "E-commerce Platform",
+      "client": "Fortune 500 Retail Company",
+      "tools": ["React", "Node.js", "AWS", "MongoDB", "Redis", "Docker"],
+      "role": "Lead Developer",
+      "teamSize": 8,
+      "model": "Agile/Scrum",
+      "startDate": "Jan 2022",
+      "endDate": "Present",
+      "description": "Built a scalable e-commerce platform handling 100K+ monthly transactions. The platform includes features like real-time inventory management, advanced search capabilities, and a sophisticated recommendation engine.",
+      "responsibilities": [
+        "Led the architectural design and implementation of the platform",
+        "Managed a team of 8 developers across frontend and backend",
+        "Implemented microservices architecture for better scalability",
+        "Optimized database queries resulting in 40% faster page loads",
+        "Established CI/CD pipelines and coding standards"
+      ],
+      "link": "https://example.com/project1"
+    },
+    {
+      "title": "Analytics Dashboard",
+      "client": "FinTech Startup",
+      "tools": ["React", "D3.js", "TypeScript", "GraphQL", "PostgreSQL"],
+      "role": "Senior Frontend Developer",
+      "teamSize": 5,
+      "model": "Kanban",
+      "startDate": "Jun 2021",
+      "endDate": "Dec 2021",
+      "description": "Developed a real-time analytics dashboard for financial data visualization. The system processes millions of data points and presents them in an intuitive interface with interactive charts and customizable widgets.",
+      "responsibilities": [
+        "Architected the frontend infrastructure using React and TypeScript",
+        "Implemented complex data visualizations using D3.js",
+        "Designed and implemented real-time data synchronization",
+        "Optimized performance for handling large datasets",
+        "Mentored junior developers on the team"
+      ],
+      "link": "https://example.com/project2"
+    }
+  ]
+}

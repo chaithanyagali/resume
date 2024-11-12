@@ -27,7 +27,10 @@ function App() {
   const handleCloseModal = () => setIsModalOpen(false);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100">
+    <div className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100"
+      style={{
+      background: 'radial-gradient(circle at center, #edf2ff, #e0e7ff, #c7d2fe)',
+    }}>
       {/* Header Section */}
       <header className="bg-white shadow-sm">
         <div className="max-w-5xl mx-auto px-4 py-16 sm:px-6 lg:px-8">

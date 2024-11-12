@@ -1,10 +1,11 @@
 {
   "basics": {
     "name": "Gnana Chaithanya Gali",
+    "phone" : "+91 7337409677",
     "title": "Data analyst",
     "summary": "Passionate software engineer with 2 years of IT experience in Life sciences projects and worked in Node.js, Express js (middleware), Python, SQL, Aws cloud services as a Backend developer and Data engineer",
     "location": "Bangalore, KA (Open to Remote)",
-    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&h=200&q=80",
+    "image": "",
     "social": {
       "github": "https://github.com/chaithanyagali",
       "linkedin": "https://www.linkedin.com/in/gnana-chaithanya-gali-9ab529173",

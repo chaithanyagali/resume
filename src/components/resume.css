@@ -1,0 +1,89 @@
+/* resume.css */
+#resume {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .name {
+    font-size: 32px;
+    font-weight: bold;
+  }
+  
+  .title {
+    font-size: 20px;
+    font-style: italic;
+  }
+  
+  .summary {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  .location {
+    font-size: 16px;
+    color: gray;
+  }
+  
+  .section {
+    margin-bottom: 40px;
+  }
+  
+  .section-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .project-item {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .project-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .project-title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .project-detail {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  
+  .project-responsibilities {
+    margin-top: 10px;
+  }
+  
+  .project-responsibilities ul {
+    margin-top: 5px;
+    padding-left: 20px;
+  }
+  
+  .project-responsibilities li {
+    font-size: 16px;
+  }
+  
+  .project-tools {
+    margin-top: 10px;
+  }
+  
+  .project-tools .tool {
+    display: inline-block;
+    background-color: #f1f1f1;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 4px;
+  }
+  
